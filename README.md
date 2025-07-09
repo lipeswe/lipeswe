@@ -1,22 +1,22 @@
-# 👋 Hey, I'm Fellipe Dutra
+👋 Hey, I'm Fellipe Dutra
 
-🎓 Computer Engineering Student at [your university name]  
-🧠 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
-🚀 Currently following a self-paced 5-month roadmap to become an ML/AI-focused Data Scientist  
+🎓 Computer Engineering Student at Instituto Politécnico de Bragança  
+🧠 Passionate about Artificial Intelligence, Machine Learning and Data Science  
+🚀 Currently following a self-paced 5 to 6-month roadmap to become an ML/AI-focused Data Scientist  
 💼 Open to internships, collaborations, and freelance AI projects
 
----
+-----------------
 
-## 📌 Current Focus
+📌 Current Focus
 
 - 📊 Data Analysis with Python, Pandas, and SQL  
 - 🤖 Machine Learning with Scikit-learn  
 - 🧠 Deep Learning using TensorFlow & Keras  
 - 🌐 Building and deploying interactive ML apps (Streamlit, Gradio)
 
----
+-----------------
 
-## 🧪 Projects in Progress
+🧪 Projects in Progress
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -27,9 +27,9 @@
 
 > 👉 All project repositories will be updated weekly as part of my public learning roadmap!
 
----
+-----------------
 
-## 📚 Learning Roadmap (Jul–Dec 2025)
+ 📚 Learning Roadmap (Aug–Jan 2025)
 
 - Month 1: Python, Pandas, Data Cleaning  
 - Month 2: Statistics, SQL, Visualization  
@@ -40,14 +40,14 @@
 🧩 Tools: GitHub, Google Colab, Jupyter, Notion, Kaggle  
 🎯 Goal: Entry-level Data Scientist role by December 2025
 
----
+-----------------
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 - 📧 Email: [fellipegdutra@gmail.com](mailto:fellipegdutra@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/fellipegdutra/)  
 - 🌍 Portfolio (coming soon)
 
----
+-----------------
 
 > ⚡ Fun fact: I believe learning in public is the best way to grow — follow my journey here every week!
