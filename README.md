@@ -45,7 +45,7 @@
 📫 Let's Connect
 
 - 📧 Email: [fellipegdutra@gmail.com](mailto:fellipegdutra@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/fellipegdutra/)  
+- 💼 LinkedIn: [linkedin.com/in/fellipegdutra](https://linkedin.com/fellipegdutra/)  
 - 🌍 Portfolio (coming soon)
 
 -----------------
