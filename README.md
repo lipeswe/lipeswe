@@ -81,9 +81,9 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [**sec-scripts**](https://github.com/fellipegdutra/sec-scripts) | Python scripts for automating network and security scans | Python, Nmap |
-| [**blue-labs**](https://github.com/fellipegdutra/blue-labs) | Detection & monitoring labs using ELK Stack and Splunk | ELK, Docker |
-| [**ctf-writeups**](https://github.com/fellipegdutra/ctf-writeups) | My Capture The Flag write-ups and learning notes | Markdown, Linux |
+| [**sec-scripts**](https://github.com/lipeswe/sec-scripts) | Python scripts for automating network and security scans | Python, Nmap |
+| [**blue-labs**](https://github.com/lipeswe/blue-labs) | Detection & monitoring labs using ELK Stack and Splunk | ELK, Docker |
+| [**ctf-writeups**](https://github.com/lipeswe/ctf-writeups) | My Capture The Flag write-ups and learning notes | Markdown, Linux |
 
 ---
 
