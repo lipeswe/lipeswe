@@ -80,13 +80,6 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 <div align="center">
   <!-- GitHub general stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=lipeswe&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
-  
-  <!-- Streak (dias consecutivos) -->
-  <img src="https://streak-stats.demolab.com?user=lipeswe&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeswe&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
-</div>
 
 ---
 
