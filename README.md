@@ -41,28 +41,50 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 - ⚡ Fun fact: I love solving challenges that mix code and creativity  
 
 ---
-
 ### 🧰 Languages & Tools
 
 <div align="center">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
+
+  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
+
+  <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
   <img width="12" />
+
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
+
+  <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
   <img width="12" />
+
+  <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP logo" />
+
+  <!-- Google Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
   <img width="12" />
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" height="40" alt="Wireshark logo" />
+
+  <!-- Wireshark -->
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="40" alt="Wireshark logo" />
   <img width="12" />
+
+  <!-- Splunk -->
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" height="40" alt="Splunk logo" />
+  <img width="12" />
+
+  <!-- Ubuntu -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
 </div>
 
