@@ -92,10 +92,14 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lipeswe&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lipeswe&theme=tokyonight" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fellipegdutra&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=fellipegdutra&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipegdutra&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
 </div>
+
 
 ---
 
