@@ -95,9 +95,7 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 ### ✍️ Latest Articles
 
-- 🧠 [How I Started My Cybersecurity Journey](https://fellipegdutra.medium.com)
-- ☁️ [Understanding Cloud Security Fundamentals](https://fellipegdutra.medium.com)
-- 💡 [First Steps with Ethical Hacking Labs](https://fellipegdutra.medium.com)
+- 🧠 [My First Step into Cybersecurity: Documenting My Journey](https://medium.com/@fellipegdutra/my-first-step-into-cybersecurity-documenting-my-journey-1011f6a066ca)
 
 ---
 
