@@ -1,53 +1,14 @@
-👋 Hey, I'm Fellipe Dutra
+# 👋 Hi, I'm Fellipe Dutra.
 
-🎓 Computer Engineering Student at Instituto Politécnico de Bragança  
-🧠 Passionate about Artificial Intelligence, Machine Learning and Data Science  
-🚀 Currently following a self-paced 5 to 6-month roadmap to become an ML/AI-focused Data Scientist  
-💼 Open to internships, collaborations, and freelance AI projects
+I'm a third-year **Computer Engineering** student passionate about cybersecurity and cloud infrastructure.  
+Currently completing the **Google Cybersecurity Professional Certificate**, while exploring both **offensive and defensive security** through CTFs, write-ups, and hands-on labs.
 
------------------
+I believe the best way to learn security is by building, breaking, and securing systems — responsibly.  
+My current focus areas include:
+- ☁️ Cloud Security 
+- 🧩 Ethical Hacking & Penetration Testing 
+- ⚙️ Automation
+- 🔍 Threat Detection
 
-📌 Current Focus
-
-- 📊 Data Analysis with Python, Pandas, and SQL  
-- 🤖 Machine Learning with Scikit-learn  
-- 🧠 Deep Learning using TensorFlow & Keras  
-- 🌐 Building and deploying interactive ML apps (Streamlit, Gradio)
-
------------------
-
-🧪 Projects in Progress
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🏡 House Price Prediction | Regression model using real estate data | `Pandas`, `scikit-learn`, `Streamlit` |
-| 📩 Customer Churn Classifier | Classification model for retention | `XGBoost`, `Seaborn`, `Pipeline` |
-| 🖼️ Image Classifier | CNN trained on CIFAR-10 dataset | `TensorFlow`, `Keras`, `Colab` |
-| 💬 Sentiment Analysis | LSTM model for movie reviews (IMDB) | `NLP`, `Keras`, `Embeddings` |
-
-> 👉 All project repositories will be updated weekly as part of my public learning roadmap!
-
------------------
-
- 📚 Learning Roadmap (Aug–Jan 2025)
-
-- Month 1: Python, Pandas, Data Cleaning  
-- Month 2: Statistics, SQL, Visualization  
-- Month 3: Supervised ML – Regression & Classification  
-- Month 4: Deep Learning – CNNs & NLP  
-- Month 5: Deployment, Portfolio, Interview Prep  
-
-🧩 Tools: GitHub, Google Colab, Jupyter, Notion, Kaggle  
-🎯 Goal: Entry-level Data Scientist role by December 2025
-
------------------
-
-📫 Let's Connect
-
-- 📧 Email: [fellipegdutra@gmail.com](mailto:fellipegdutra@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/fellipegdutra](https://linkedin.com/fellipegdutra/)  
-- 🌍 Portfolio (coming soon)
-
------------------
-
-> ⚡ Fun fact: I believe learning in public is the best way to grow — follow my journey here every week!
+💡 Always learning, experimenting, and sharing knowledge through projects and write-ups.  
+📫 Reach me at fellipegdutra@gmail.com or connect on [LinkedIn](https://linkedin.com/in/fellipegdutra).
