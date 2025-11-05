@@ -11,7 +11,7 @@
   <a href="https://fellipegdutra.medium.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="Medium badge" />
   </a>
-  <a href="https://github.com/fellipegdutra" target="_blank">
+  <a href="https://github.com/lipeswe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub badge" />
   </a>
 </div>
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fellipegdutra.fellipegdutra&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lipeswe.lipeswe"  />
 </div>
 
 ###
@@ -35,12 +35,13 @@
 I'm a **Computer Engineering student** based in Europe 🇪🇺, passionate about **Cybersecurity**, **Cloud Security**, and **Ethical Hacking**.  
 Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience with CTFs, Python scripts, and security labs.  
 
-- 🔐 Exploring **Cloud Security (AWS / Azure / GCP)** and **Threat Detection (SIEM / ELK / Splunk)**  
+- ☁️ Exploring **Cloud Security (AWS / Azure / GCP)** and **Threat Detection (SIEM / ELK / Splunk)**  
 - 💻 Learning **Ethical Hacking**, vulnerability analysis, and automation with Python  
 - 🎯 Goal: to start my career as a **Cloud Security Engineer / SOC Analyst**  
 - ⚡ Fun fact: I love solving challenges that mix code and creativity  
 
 ---
+
 ### 🧰 Languages & Tools
 
 <div align="center">
@@ -54,6 +55,10 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
+  <img width="12" />
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
 
   <!-- AWS -->
@@ -72,6 +77,10 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
 
+  <!-- Wireshark -->
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="40" alt="Wireshark logo" />
+  <img width="12" />
+
   <!-- Splunk -->
   <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" height="40" alt="Splunk logo" />
   <img width="12" />
@@ -82,11 +91,18 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <div align="center">
   <!-- GitHub general stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=lipeswe&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
+  
+  <!-- Streak (dias consecutivos) -->
+  <img src="https://streak-stats.demolab.com?user=lipeswe&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeswe&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
+</div>
 
 ---
 
