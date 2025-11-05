@@ -56,10 +56,6 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
   <img width="12" />
 
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-
   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
   <img width="12" />
@@ -76,10 +72,6 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
 
-  <!-- Wireshark -->
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="40" alt="Wireshark logo" />
-  <img width="12" />
-
   <!-- Splunk -->
   <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" height="40" alt="Splunk logo" />
   <img width="12" />
@@ -92,14 +84,16 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fellipegdutra&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=fellipegdutra&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipegdutra&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
+  <!-- GitHub general stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lipeswe&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
+  
+  <!-- Streak (dias consecutivos) -->
+  <img src="https://streak-stats.demolab.com?user=lipeswe&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeswe&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
 </div>
-
 
 ---
 
