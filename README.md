@@ -11,94 +11,133 @@
   <a href="https://fellipegdutra.medium.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="Medium badge" />
   </a>
-  <a href="https://github.com/lipeswe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub badge" />
-  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lipeswe.lipeswe"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lipeswe.lipeswe" />
 </div>
 
-###
+---
 
 <h1 align="center">Hey there 👋, I'm Fellipe Dutra</h1>
 
-<h3 align="center">🚀 Aspiring Cybersecurity & Cloud Security Professional</h3>
+<h3 align="center">Cybersecurity Student | Future SOC Analyst</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** based in Europe 🇪🇺, passionate about **Cybersecurity**, **Cloud Security**, and **Ethical Hacking**.  
-Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience with CTFs, Python scripts, and security labs.  
+I'm a **Computer Engineering student based in Portugal 🇵🇹** with a strong interest in **Cybersecurity**, **Threat Detection**, and **Ethical Hacking**.
 
-- ☁️ Exploring **Cloud Security (AWS / Azure / GCP)** and **Threat Detection (SIEM / ELK / Splunk)**  
-- 💻 Learning **Ethical Hacking**, vulnerability analysis, and automation with Python  
-- 🎯 Goal: to start my career as a **SOC Analyst / Junior Cybersecurity Analyst** 
-- ⚡ Fun fact: I love solving challenges that mix code and creativity  
+Currently building practical cybersecurity skills through:
+
+- 🧪 **Security labs and CTF platforms**
+- 🐧 **Linux and networking practice**
+- 🐍 **Python scripting for security automation**
+- 🔐 **Web security fundamentals (OWASP Top 10)**
+
+🎯 **Goal:** Start my career as a **SOC Analyst / Junior Cybersecurity Analyst** and continue growing towards **penetration testing and security research**.
 
 ---
 
-### 🧰 Languages & Tools
+## 🧪 Cybersecurity Labs
+
+Hands-on learning through practical platforms:
+
+- TryHackMe labs and learning paths  
+- Hack The Box beginner machines  
+- Personal cybersecurity **home lab environment**
+
+Current focus:
+
+- Linux system usage
+- Network enumeration and scanning
+- Web vulnerability basics
+- Security tooling and automation
+
+---
+
+## 🖥️ Cybersecurity Home Lab
+
+Personal lab used to practice offensive and defensive security techniques.
+
+Environment includes:
+
+- Kali Linux attacker machine
+- Vulnerable targets (Metasploitable, DVWA)
+- Network scanning and enumeration
+- Web vulnerability testing
+
+Tools frequently used:
+
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- Gobuster  
+
+---
+
+## 🔐 Cybersecurity Skills
+
+- Linux command line usage
+- Network fundamentals (TCP/IP, DNS, HTTP)
+- Traffic analysis with Wireshark
+- Vulnerability scanning and enumeration
+- Web vulnerability basics (OWASP Top 10)
+- Python scripting for security tasks
+
+---
+
+## 🧰 Languages & Tools
 
 <div align="center">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
 
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12" />
 
-  <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img width="12" />
 
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+<img width="12" />
 
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12" />
 
-  <!-- Google Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
-  <img width="12" />
+</div>
 
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  
 ---
 
-### 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub general stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lipeswe&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lipeswe&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
+
+</div>
 
 ---
 
-### 🧩 Featured Projects
+## 📚 Current Learning Focus
 
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [**sec-scripts**](https://github.com/lipeswe/sec-scripts) | Python scripts for automating network and security scans | Python, Nmap |
-| [**blue-labs**](https://github.com/lipeswe/blue-labs) | Detection & monitoring labs using ELK Stack and Splunk | ELK, Docker |
-| [**ctf-writeups**](https://github.com/lipeswe/ctf-writeups) | My Capture The Flag write-ups and learning notes | Markdown, Linux |
+- Linux administration and security
+- Network analysis and monitoring
+- Web vulnerabilities (OWASP Top 10)
+- Python automation for cybersecurity
+- Security labs and home lab practice
 
 ---
 
-### ✍️ Latest Articles
+## ✍️ Latest Articles
 
 - 🧠 [My First Step into Cybersecurity: Documenting My Journey](https://medium.com/@fellipegdutra/my-first-step-into-cybersecurity-documenting-my-journey-1011f6a066ca)
 
 ---
 
 <div align="center">
-  <b>“Security is not a product, but a process.” — Bruce Schneier</b>
+
+**“Security is not a product, but a process.” — Bruce Schneier**
+
 </div>
