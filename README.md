@@ -37,7 +37,7 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 - ☁️ Exploring **Cloud Security (AWS / Azure / GCP)** and **Threat Detection (SIEM / ELK / Splunk)**  
 - 💻 Learning **Ethical Hacking**, vulnerability analysis, and automation with Python  
-- 🎯 Goal: to start my career as a **Cloud Security Engineer / SOC Analyst**  
+- 🎯 Goal: to start my career as a **SOC Analyst / Junior Cybersecurity Analyst** 
 - ⚡ Fun fact: I love solving challenges that mix code and creativity  
 
 ---
