@@ -23,7 +23,7 @@
 
 <h1 align="center">Hey there 👋, I'm Fellipe Dutra</h1>
 
-<h3 align="center">Cybersecurity Student | Future SOC Analyst</h3>
+<h3 align="center">Cybersecurity Student | Future Pentester</h3>
 
 ---
 
